@@ -11,3 +11,23 @@ h1 {
 a {
   color: darkslateblue;
 }
+
+p {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.5;
+  width: 600px;
+}
+
+.email-link:hover {
+  color: grey;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+  border-radius: 6px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
